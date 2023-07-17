@@ -1,0 +1,8 @@
+.Header-div {
+  display: flex;
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  font-size: larger;
+  justify-content: center;
+}

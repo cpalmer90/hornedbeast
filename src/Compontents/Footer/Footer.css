@@ -1,0 +1,8 @@
+.footer-div {
+  background-color: black;
+  color: white;
+  font-size: large;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+}
