@@ -1,4 +1,4 @@
-// import Header from "./Compontents/Header/Header";
+import "./App.css";
 import Footer from "./Compontents/Footer/Footer";
 import Header from "./Compontents/Header/Header";
 import Main from "./Compontents/Main/Main";
