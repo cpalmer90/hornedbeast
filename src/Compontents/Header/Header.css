@@ -1,8 +1,10 @@
 .Header-div {
   display: flex;
   background-color: black;
-  color: white;
+  color: pink;
   font-family: monospace;
   font-size: larger;
   justify-content: center;
+  border-radius: 12px;
+  box-shadow: 4px 10px 16px 0;
 }

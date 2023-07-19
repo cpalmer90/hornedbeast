@@ -1,5 +1,10 @@
 .hb-container {
+  text-align: center;
   width: 100%;
+  background-color: black;
+  box-shadow: 4px 10px 16px 0;
+  color: pink;
+  border-radius: 20px;
 }
 
 img {
