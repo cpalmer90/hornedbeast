@@ -3,7 +3,9 @@ main {
   grid-template-columns: 1fr;
   grid-template-rows: repeat(20, 1fr);
   gap: 1rem;
-  background-color: antiquewhite;
+  background-image: url("https://imgtr.ee/images/2023/07/20/fd597c7f8cfda008dc7662f27768d094.png");
+  background-attachment: fixed;
+  background-repeat: repeat;
   margin-top: 2rem;
 }
 

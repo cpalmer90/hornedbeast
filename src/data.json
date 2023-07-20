@@ -149,7 +149,7 @@
     "title": "Horned Lizard",
     "description": "Fave food: ants",
     "keyword": "lizard",
-    "horns": 100
+    "horns": 4
   },
   {
     "_id": 20,
@@ -157,6 +157,14 @@
     "title": "Smaug",
     "description": "Fan illustration of Smaug from 'The Hobbit'",
     "keyword": "dragon",
-    "horns": 100
+    "horns": 4
+  },
+  {
+    "_id": 21,
+    "image_url": "https://imgtr.ee/images/2023/07/20/58611d671046d5c1cc8f7dcb3fab47bd.png",
+    "title": "lesser horned Chris",
+    "description": "a man and his horns",
+    "keyword": "dragon",
+    "horns": 4
   }
 ]

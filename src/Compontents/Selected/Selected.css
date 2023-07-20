@@ -1,5 +1,5 @@
 .selected {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   bottom: 0;
@@ -12,7 +12,7 @@
 
 .s-container {
   position: relative;
-  color: antiquewhite;
+  color: pink;
   background-color: rgb(0, 0, 0);
   padding: 3rem 1rem 1rem 1rem;
   display: flex;
